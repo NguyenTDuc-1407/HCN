@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\HCN\bin\Debug\net7.0\HCN.exe
+C:\Users\ASUS\Desktop\HCN\bin\Debug\net7.0\HCN.deps.json
+C:\Users\ASUS\Desktop\HCN\bin\Debug\net7.0\HCN.runtimeconfig.json
+C:\Users\ASUS\Desktop\HCN\bin\Debug\net7.0\HCN.dll
+C:\Users\ASUS\Desktop\HCN\bin\Debug\net7.0\HCN.pdb
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.dll
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\refint\HCN.dll
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.pdb
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\HCN.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\HCN\obj\Debug\net7.0\ref\HCN.dll
